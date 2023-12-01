@@ -2,7 +2,6 @@
 /* DBMS name:      ORACLE Version 11g                           */
 /* Created on:     12/11/2022 2:08:37 PM                        */
 /*==============================================================*/
--- Arquivo SQL para o banco de dados
 
 
 alter table AVIOES
