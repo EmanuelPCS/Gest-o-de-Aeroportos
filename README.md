@@ -1,7 +1,7 @@
 # Gestao-de-Aeroportos
 Project developed in BD (Base de Dados) class.
 
-This project aims to simulate the operation and creation of one or more databases related to one or more airports generating the necessary database for managing one or more airports, along with the corresponding ER (Entity-Relationship) and physical models.
+This project aims to simulate the operation and development of a database related to one or more airports generating the necessary database for managing one or more airports, along with the corresponding ER (Entity-Relationship) and physical models.
 
 ## About the Project
 To manage multiple airports, it is necessary to understand how they are structured and what information needs to be managed. In this way, airports are divided into three parts. The first part is the internal section, which consists of the employees working at the airport and the passengers who are traveling. However, for passengers to travel, they need to acquire tickets (which can be purchased at the airport or online) and these tickets must be valid until the check-in time, with the option to cancel the purchase at any time. Each passenger can make multiple purchases (of tickets) for various flights. It is also necessary to know the data of those who are traveling and those who work at the airport (address, name, email, phone, date of birth, ID card, and tax identification number) for protection and security purposes.
